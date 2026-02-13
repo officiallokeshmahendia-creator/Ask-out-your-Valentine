@@ -55,7 +55,7 @@ Want to make it your own? Here are some easy tweaks inside `index.html`:
 | Confetti colors | `colors` array in the `yesButton` click handler | Swap in any hex color codes |
 | Background gradient | `.gradient-background` in `<style>` | Change the hex colors |
 
-## Technologies
+## Technologies 
 
 - **HTML5** -- semantic markup with `<main>` and `<section>`
 - **Tailwind CSS** -- utility-first styling via CDN
